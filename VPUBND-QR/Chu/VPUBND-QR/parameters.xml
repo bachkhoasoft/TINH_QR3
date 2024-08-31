@@ -1,0 +1,5 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" value="chu" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

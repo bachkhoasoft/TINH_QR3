@@ -1,0 +1,74 @@
+﻿@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VPUBND TP HCM</title>
+    <link href="~/css/site.css" rel="stylesheet">
+</head>
+<body>
+    <div class="vh-100 d-flex flex-column justify-content-center align-items-center">
+        <h1 class="display-4 text-fluorescent-green mb-5">Công cụ tạo mã QR</h1>
+        <div class="text-center">
+            @using (Html.BeginForm("VPUBND", "Qr", FormMethod.Post, new { @class = "form-inline" }))
+            {
+                <div class="input-group input-group-lg mb-3">
+                    
+                    <input class="form-control" type="text" name="text">
+                    <button class="btn btn-primary" type="submit" formtarget="_blank">Tạo mã</button>
+                </div>
+
+               
+            }
+            <p class="text-fluorescent-green">
+                Nhập đường dẫn liên kết file đính kèm khi quét QR.
+            </p>
+
+            
+        </div>
+
+
+        <form asp-action="VPUBND" asp-controller="Qr">
+            <input type="text" name="qrcode" />
+            <input type="submit" value="Tạo mã" />
+        </form>
+
+        @if (ViewBag.QRCodeImage != null)
+        {
+            <img src="@ViewBag.QRCodeImage" alt="" style="height:150px;width:150px" />
+        }
+        
+
+       
+    </div>
+
+
+    @* <table>
+        <tr>
+            @for (int column = 0; column < ViewBag.Data.Columns.Count - 1; column++)
+            {
+                <th>@ViewBag.Data.Columns[column].ColumnName</th>
+            }
+            <th></th>
+        </tr>
+        @for (int row = 0; row < ViewBag.Data.Rows.Count; row++)
+        {
+            <tr>
+                @for (int column = 0; column < ViewBag.Data.Columns.Count - 1; column++)
+                {
+                    <td>@ViewBag.Data.Rows[row][column]</td>
+                }
+                <td><img src="@ViewBag.Data.Rows[row]["QRCode"]" alt="@ViewBag.Data.Rows[row]["Year"]" height="100" width="100" /></td>
+            </tr>
+        }
+    </table>
+ *@
+
+
+</body>
+</html>

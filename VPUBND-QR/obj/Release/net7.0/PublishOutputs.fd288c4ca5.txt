@@ -1,0 +1,17 @@
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.exe
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Chu\VPUBND-QR\Content\E_C\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\web.config
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Chu\VPUBND-QR\Content\E_C\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Chu\VPUBND-QR\Content\E_C\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Chu\VPUBND-QR\Content\E_C\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.deps.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Chu\VPUBND-QR\Content\E_C\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.runtimeconfig.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.dll
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.deps.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.runtimeconfig.json
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\VPUBND-QR.pdb
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\QRCoder.dll
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\System.Drawing.Common.dll
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\CHU_PRIVATE\TINH_QR3\VPUBND-QR\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\net7.0\System.Drawing.Common.dll

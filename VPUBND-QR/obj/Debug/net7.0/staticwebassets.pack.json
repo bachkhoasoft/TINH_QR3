@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ITP\\.nuget\\packages\\bootstrap\\5.3.0\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\VPUBND-QR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VPUBND-QR.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file-----------------1ee8.qrr",
+      "PackagePath": "staticwebassets\\file-----------------1ee8.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file-----------------90bb.qrr",
+      "PackagePath": "staticwebassets\\file-----------------90bb.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file-06dd.qrr",
+      "PackagePath": "staticwebassets\\file-06dd.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file-a704.qrr",
+      "PackagePath": "staticwebassets\\file-a704.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file10b3.qrr",
+      "PackagePath": "staticwebassets\\file10b3.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file39d6.qrr",
+      "PackagePath": "staticwebassets\\file39d6.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file41a7.qrr",
+      "PackagePath": "staticwebassets\\file41a7.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-.png",
+      "PackagePath": "staticwebassets\\file\\file-.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-595a.png",
+      "PackagePath": "staticwebassets\\file\\file-595a.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-62f4.png",
+      "PackagePath": "staticwebassets\\file\\file-62f4.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-778f.png",
+      "PackagePath": "staticwebassets\\file\\file-778f.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-b9b9.png",
+      "PackagePath": "staticwebassets\\file\\file-b9b9.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-c01c.png",
+      "PackagePath": "staticwebassets\\file\\file-c01c.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-c321.png",
+      "PackagePath": "staticwebassets\\file\\file-c321.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\file-c52d.png",
+      "PackagePath": "staticwebassets\\file\\file-c52d.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubnd-6f9e.png",
+      "PackagePath": "staticwebassets\\file\\vpubnd-6f9e.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-0232.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-0232.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-0374.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-0374.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-0950.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-0950.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-1ad9.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-1ad9.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-32c2.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-32c2.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-3f25.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-3f25.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-4ae6.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-4ae6.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-4d57.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-4d57.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-4dd0.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-4dd0.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-5a71.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-5a71.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-6816.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-6816.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-7190.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-7190.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-74bc.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-74bc.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-77ce.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-77ce.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-7840.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-7840.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-7f72.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-7f72.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-8000.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-8000.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-8050.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-8050.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-9399.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-9399.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-a86b.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-a86b.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-a98b.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-a98b.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-b767.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-b767.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-c002.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-c002.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-e0cf.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-e0cf.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-e19e.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-e19e.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-e40a.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-e40a.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-e632.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-e632.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-f0ec.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-f0ec.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\file\\vpubndtphcm-fb41.png",
+      "PackagePath": "staticwebassets\\file\\vpubndtphcm-fb41.png"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\fileba10.qrr",
+      "PackagePath": "staticwebassets\\fileba10.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\filec08c.qrr",
+      "PackagePath": "staticwebassets\\filec08c.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\fileee53.qrr",
+      "PackagePath": "staticwebassets\\fileee53.qrr"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\img\\12 - Copy.jpg",
+      "PackagePath": "staticwebassets\\img\\12 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\img\\architecture.jpg",
+      "PackagePath": "staticwebassets\\img\\architecture.jpg"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\img\\space1.jpg",
+      "PackagePath": "staticwebassets\\img\\space1.jpg"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\img\\space2.jpg",
+      "PackagePath": "staticwebassets\\img\\space2.jpg"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CHU_PRIVATE\\TINH_QR3\\VPUBND-QR\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.VPUBND-QR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.VPUBND-QR.props",
+      "PackagePath": "build\\VPUBND-QR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.VPUBND-QR.props",
+      "PackagePath": "buildMultiTargeting\\VPUBND-QR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.VPUBND-QR.props",
+      "PackagePath": "buildTransitive\\VPUBND-QR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
